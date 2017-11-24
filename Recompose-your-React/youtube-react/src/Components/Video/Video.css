@@ -1,0 +1,10 @@
+.video {
+  border: none;
+  margin: 20px;
+  width: 350px;
+  height: 265px;
+  background: url('../../assets/loader.gif');
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
