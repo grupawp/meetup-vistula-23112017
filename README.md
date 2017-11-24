@@ -24,6 +24,8 @@ collaborated on IT projects for most major Polish companies in Internet industry
 hired dozens of engineers and probably knows every trick in the book when it comes to IT job
 interview.
 
+Slides: [How to fail IT job interview in 8 easy steps](howtofailinterview/How%20to%20fail%20IT%20job%20interview%20in%208%20easy%20steps.pdf)
+
 GABOR WNUK For the last 9 years bonded with o2.pl and later Wirtualna Polska. Currently Mobile Tech
 Lead in Wirtualna Polska, busy with implementing React Native wherever possible.\
 Talk title - React Native - Success case study\
@@ -35,6 +37,8 @@ development.
 YAUHENI NIKANOVICH Frontend Developer at Wirtualna Polska. Always on the wave of the world wide web.
 JavaScript lover and just a friendly guy. He believes that programmer is not just a profession but
 mindset.
+
+Slides: [Recompose your React](Recompose-your-React/Recompose-react.pdf)
 
 ## Agenda
 
