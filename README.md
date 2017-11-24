@@ -19,14 +19,14 @@ share ideas, learn new things and network with awesome community. Let's get to k
 
 ## Speakers
 
-KRZYSZTOF PAŁKA is experienced software engineering manager and web project management expert. He
+**KRZYSZTOF PAŁKA** is experienced software engineering manager and web project management expert. He
 collaborated on IT projects for most major Polish companies in Internet industry. In the meantime he
 hired dozens of engineers and probably knows every trick in the book when it comes to IT job
 interview.
 
 Slides: [How to fail IT job interview in 8 easy steps](howtofailinterview/How%20to%20fail%20IT%20job%20interview%20in%208%20easy%20steps.pdf)
 
-GABOR WNUK For the last 9 years bonded with o2.pl and later Wirtualna Polska. Currently Mobile Tech
+**GABOR WNUK** For the last 9 years bonded with o2.pl and later Wirtualna Polska. Currently Mobile Tech
 Lead in Wirtualna Polska, busy with implementing React Native wherever possible.\
 Talk title - React Native - Success case study\
 For the last 12 months we've been experimenting with cross platform solutions with moderate success
@@ -34,7 +34,7 @@ until we've researched React Native, and boy oh boy has it been worth it. During
 explain what difficulties we've been facing and how React Rative could hugely accelerate your
 development.
 
-YAUHENI NIKANOVICH Frontend Developer at Wirtualna Polska. Always on the wave of the world wide web.
+**YAUHENI NIKANOVICH** Frontend Developer at Wirtualna Polska. Always on the wave of the world wide web.
 JavaScript lover and just a friendly guy. He believes that programmer is not just a profession but
 mindset.
 
@@ -42,9 +42,10 @@ Slides: [Recompose your React](Recompose-your-React/Recompose-react.pdf)
 
 ## Agenda
 
-18:30 - Gabor Wnuk - React Native Love / Hate [EN] 19:00 - Pizza Break 19:15 - Yauheni Nikanovich -
-Recompose your React [EN] 19:45 - Krzysztof Pałka - How to fail IT job interview in 8 easy steps
-[EN]
+* 18:30 - Gabor Wnuk - React Native Love / Hate [EN]
+* 19:00 - Pizza Break
+* 19:15 - Yauheni Nikanovich - Recompose your React [EN]
+* 19:45 - Krzysztof Pałka - How to fail IT job interview in 8 easy steps [EN]
 
 ## When
 
